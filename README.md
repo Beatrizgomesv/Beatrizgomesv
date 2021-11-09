@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Oi, eu sou a Bia.<br>
- Estou em busca de uma oportunidade de estágio, no momento estou me aprimorando na Linguagem Java.
+Hi, I'm Bia.<br>
+I'm looking for an internship opportunity and I'm currently improving the Java language and SQL relational database.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Java, Javascript, SQL,  HTML e CSS.</strong>
+ 🦄 Languages: <strong> Java, Javascript, SQL,  HTML e CSS.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Intellij e Eclipse.</strong>
+  💼 Tools: <strong>VSCode, Intellij e Eclipse.</strong>
 </p>
 
 <p align="left">
-  💌 Contato: ⤵️
+ 💌 Contact: ⤵️
 </p>
 
 <p align="left">
