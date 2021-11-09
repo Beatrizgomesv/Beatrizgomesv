@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Hi, I'm Bia.<br>
+ <strong>Hi, I'm Bia.<br></strong>
 I'm looking for an internship opportunity and I'm currently improving the Java language and SQL relational database.
 </p>
 
