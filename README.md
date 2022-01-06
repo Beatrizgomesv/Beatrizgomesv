@@ -2,7 +2,7 @@
 
 <p align="left"> 
  <strong>Hi, I'm Bia.<br></strong>
- I'm currently a development intern. I'm improving a Java language and SQL relational database.
+ I'm currently a development intern. I'm improving a Java language and MYSQL & DB2.
 </p>
 
 <p align="left">
