@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
- 🦄 Languages: <strong> Java, Javascript, SQL,  HTML e CSS.</strong>
+ 🦄 Languages: <strong> Java with Spring Boot, Javascript, SQL,  HTML e CSS.</strong>
 </p>
 
 <p align="left">
