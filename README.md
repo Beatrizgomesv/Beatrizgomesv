@@ -2,7 +2,7 @@
 
 <p align="left"> 
  <strong>Hi, I'm Bia.<br></strong>
- I'm currently a development intern. 
+I am currently studying web development. 
 </p>
 
 <p align="left">
